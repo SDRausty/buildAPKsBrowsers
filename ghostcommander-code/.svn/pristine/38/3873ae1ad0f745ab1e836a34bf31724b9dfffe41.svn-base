@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+  android:layout_width="fill_parent" 
+  android:layout_height="fill_parent"
+    >
+<EditText 
+	android:id="@+id/editor" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:gravity="top"
+	android:typeface="monospace"
+	android:textColor="#eee"
+	android:background="#000"
+	android:scrollHorizontally="true"
+    android:scrollbars="vertical"
+    android:scrollbarDefaultDelayBeforeFade="5000"
+  />
+  <include layout="@layout/fly_button"/>
+</FrameLayout>
