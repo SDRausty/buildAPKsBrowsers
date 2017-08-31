@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="FullScreen" parent="android:style/Theme">
-    </style>
-
-    <style name="AsDialog" parent="android:style/Theme.Dialog">
-    </style>
-    
-</resources>
