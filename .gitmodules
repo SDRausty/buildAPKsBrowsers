@@ -1,15 +1,9 @@
-[submodule "filemanager"]
-	path = filemanager
-	url = https://github.com/openintents/filemanager
 [submodule "Android-File-Manager"]
 	path = Android-File-Manager
 	url = https://github.com/nexes/Android-File-Manager
 [submodule "GoogleApps"]
 	path = GoogleApps
 	url = https://github.com/tobykurien/GoogleApps
-[submodule "ghostcommander"]
-	path = ghostcommander
-	url = https://github.com/svn2github/ghostcommander
 [submodule "mBrowser/chelovek84"]
 	path = mBrowser/chelovek84
 	url = https://github.com/chelovek84/mBrowser
@@ -22,9 +16,6 @@
 [submodule "mBrowser/jkanche"]
 	path = mBrowser/jkanche
 	url = https://github.com/jkanche/mBrowser
-[submodule "WebBrowser"]
-	path = WebBrowser
-	url = https://github.com/dorobonneko/WebBrowser
 [submodule "oneM2MBrowser"]
 	path = oneM2MBrowser
 	url = https://github.com/IoTKETI/oneM2MBrowser
