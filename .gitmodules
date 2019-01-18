@@ -1,3 +1,6 @@
 [submodule "filemanager"]
 	path = filemanager
 	url = https://github.com/openintents/filemanager
+[submodule "Android-File-Manager"]
+	path = Android-File-Manager
+	url = https://github.com/nexes/Android-File-Manager
