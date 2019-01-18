@@ -1,0 +1,3 @@
+[submodule "filemanager"]
+	path = filemanager
+	url = https://github.com/openintents/filemanager
