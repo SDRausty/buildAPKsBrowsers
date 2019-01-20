@@ -1,0 +1,10 @@
+
+[submodule "ghostcommander"]
+	path = ghostcommander
+	url = https://github.com/svn2github/ghostcommander
+[submodule "WebBrowser"]
+	path = WebBrowser
+	url = https://github.com/dorobonneko/WebBrowser
+[submodule "filemanager"]
+	path = filemanager
+	url = https://github.com/openintents/filemanager
