@@ -7,3 +7,6 @@
 [submodule "mBrowser/chelovek84"]
 	path = mBrowser/chelovek84
 	url = https://github.com/chelovek84/mBrowser
+[submodule ".scripts/maintenance"]
+	path = .scripts/maintenance
+	url = https://github.com/shlibs/maintenance
