@@ -9,9 +9,10 @@ cd "$JDR"
 # _AT_ username/repository commit
 _AT_ Sjith/Magellan a3cfe75ec31c9cff917bd68d9a476a8416f30d89
 _AT_ ch-ms/See 45ee117937edd6b7271e440fc91e97c16c1c1340
-_AT_ vaal12/AndroidFileBrowser 16d913ba03c2916897cd5076fbda6e5c33927091
 _AT_ eonj/Android-Resource-Browser 6b56a5090fb67c65a945d29a4bcdbab3cb4d8e69
+_AT_ jrudolph/object-browser 9c3adfa87fb3f295f5c50972cea14211d7706b42
 _AT_ kalkin/FileBrowser 714d1e037b88781c40e1d9481c668f69d5096eb2
 _AT_ scott-steadman/android-demo f39147045b71480f5f8d5e86208d7ccd8bf10550
+_AT_ vaal12/AndroidFileBrowser 16d913ba03c2916897cd5076fbda6e5c33927091
 _AT_ xdtianyu/MyBrowser 7a6a0188e958c0eb9d01d67710ae1f9cc918aa5a
 # ma.bash OEF
