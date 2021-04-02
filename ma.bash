@@ -18,4 +18,5 @@ sed -i 's/unipg.it/github.com\/buildAPKs/g' palazzem/AndroidBrowser/palazzem-And
 _AT_ scott-steadman/android-demo f39147045b71480f5f8d5e86208d7ccd8bf10550
 _AT_ vaal12/AndroidFileBrowser 16d913ba03c2916897cd5076fbda6e5c33927091
 _AT_ xdtianyu/MyBrowser 7a6a0188e958c0eb9d01d67710ae1f9cc918aa5a
+sed -i 's/google.com.hk/github.com\/buildAPKs/g' xdtianyu/MyBrowser/xdtianyu-MyBrowser-7a6a018/res/values/strings.xml
 # ma.bash OEF
