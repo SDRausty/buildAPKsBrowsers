@@ -9,6 +9,7 @@ cd "$JDR"
 # _AT_ username/repository commit
 _AT_ Sjith/Magellan a3cfe75ec31c9cff917bd68d9a476a8416f30d89
 _AT_ ch-ms/See 45ee117937edd6b7271e440fc91e97c16c1c1340
+cd "$JDR"
 sed -i 's/my awesome blog at //g' ch-ms/See/ch-ms-See-45ee117/assets/about.html
 sed -i 's/forallx.ru/www.github.com\/buildAPKs/g' ch-ms/See/ch-ms-See-45ee117/assets/about.html
 _AT_ eonj/Android-Resource-Browser 6b56a5090fb67c65a945d29a4bcdbab3cb4d8e69
