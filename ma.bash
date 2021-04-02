@@ -8,7 +8,6 @@ shopt -s nullglob globstar
 cd "$JDR"
 # _AT_ username/repository commit
 _AT_ Sjith/Magellan a3cfe75ec31c9cff917bd68d9a476a8416f30d89
-printf "\\n%s\\n" "<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />" >> Sjith/Magellan/Sjith-Magellan-a3cfe75/AndroidManifest.xml
 _AT_ ch-ms/See 45ee117937edd6b7271e440fc91e97c16c1c1340
 sed -i 's/my awesome blog at //g' ch-ms/See/ch-ms-See-45ee117/assets/about.html
 sed -i 's/forallx.ru/www.github.com\/buildAPKs/g' ch-ms/See/ch-ms-See-45ee117/assets/about.html
