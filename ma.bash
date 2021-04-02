@@ -16,10 +16,12 @@ _AT_ eonj/Android-Resource-Browser 6b56a5090fb67c65a945d29a4bcdbab3cb4d8e69
 _AT_ jrudolph/object-browser 9c3adfa87fb3f295f5c50972cea14211d7706b42
 _AT_ kalkin/FileBrowser 714d1e037b88781c40e1d9481c668f69d5096eb2
 _AT_ palazzem/AndroidBrowser 45ea4000bee5702c593d50d5ef3fb0cf67fb6044
+cd "$JDR"
 sed -i 's/unipg.it/github.com\/buildAPKs/g' palazzem/AndroidBrowser/palazzem-AndroidBrowser-45ea400/src/res/values/strings.xml
 [ -f "$RDR/opt/pic.png" ] && cp -r "$RDR/opt/pic.png" palazzem/AndroidBrowser/palazzem-AndroidBrowser-45ea400/src/res/drawable/logo_unipg.png
 _AT_ scott-steadman/android-demo f39147045b71480f5f8d5e86208d7ccd8bf10550
 _AT_ vaal12/AndroidFileBrowser 16d913ba03c2916897cd5076fbda6e5c33927091
 _AT_ xdtianyu/MyBrowser 7a6a0188e958c0eb9d01d67710ae1f9cc918aa5a
+cd "$JDR"
 sed -i 's/google.com.hk/github.com\/buildAPKs/g' xdtianyu/MyBrowser/xdtianyu-MyBrowser-7a6a018/res/values/strings.xml
 # ma.bash OEF
