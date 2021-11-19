@@ -292,7 +292,7 @@ public class MainActivity extends Activity {
 			e.printStackTrace();
 		}
 		if(keywords!=null){
-			loadUrl("https://www.duckduckgo.com/html?q=" + keywords);
+			loadUrl("https://www.ecosia.org/search?q=" + keywords);
 		}
 	}
 	
