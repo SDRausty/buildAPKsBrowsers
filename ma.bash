@@ -1,5 +1,5 @@
-#!/usr/bin/env bash 
-# Copyright 2021 (c) all rights reserved 
+#!/usr/bin/env bash
+# Copyright 2021 (c) all rights reserved
 # by SDRausty https://sdrausty.github.io
 #####################################################################
 set -Eeuo pipefail
@@ -13,6 +13,7 @@ cd "$JDR"
 sed -i 's/my awesome blog at //g' ch-ms/See/ch-ms-See-45ee117/assets/about.html
 sed -i 's/forallx.ru/www.github.com\/buildAPKs/g' ch-ms/See/ch-ms-See-45ee117/assets/about.html
 _AT_ eonj/Android-Resource-Browser 6b56a5090fb67c65a945d29a4bcdbab3cb4d8e69
+_AT_ hayksaakian/WebView-Developer-Browser 7467d6a0209b51a92a22745ccd8411337957b56f
 _AT_ jrudolph/object-browser 9c3adfa87fb3f295f5c50972cea14211d7706b42
 _AT_ kalkin/FileBrowser 714d1e037b88781c40e1d9481c668f69d5096eb2
 _AT_ palazzem/AndroidBrowser 45ea4000bee5702c593d50d5ef3fb0cf67fb6044
